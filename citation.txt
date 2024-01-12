@@ -1,0 +1,6 @@
+@article{REPO348,
+    author = "Rieger, Phillip and Nguyen, Thien Duc and Miettinen, Markus and Sadeghi, Ahmad-Reza",
+    journal = "arXiv preprint arXiv:2201.00763",
+    title = "{Deepsight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection}",
+    year = "2022"
+}
